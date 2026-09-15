@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/content.js": { "runtime": "edge" },
+    "api/ai.js": { "runtime": "edge" },
+    "api/football.js": { "runtime": "edge" }
+  }
+}
